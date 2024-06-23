@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event>
+        <buyerPartyReference href="BUYER1"/>
+        <sellerPartyReference href="EMU_BANK"/>
+        <paymentAmount>
+            <amount>100.0</amount>
+            <currency>AUD</currency>
+        </paymentAmount>
+    </event>
+    <event>
+        <buyerPartyReference href="BANK_UM"/>
+        <sellerPartyReference href="EMU_BANK"/>
+        <paymentAmount>
+            <amount>200.0</amount>
+            <currency>USD</currency>
+        </paymentAmount>
+    </event>
+</events>
